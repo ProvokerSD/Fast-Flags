@@ -1,18 +1,18 @@
-<h1 align="center">🚩 𝙵𝚊𝚜𝚝 𝙵𝚕𝚊𝚐 𝙻𝚒𝚜𝚝</h2>
+<h1 align="center">🚩 Fast Flag Lists</h2>
 
-### 𝙳𝚒𝚜𝚙𝚕𝚊𝚢𝚜 𝙵𝙿𝚂
+### Displays FPS
 ```json
 {
   "FFlagDebugDisplayFPS": "True"
 }
 ```
-### 𝙶𝚛𝚊𝚢 𝚂𝚔𝚢
+### Gray Sky
 ```json
 {
   "FFlagDebugSkyGray": "True"
 }
 ```
-### 𝚄𝚗𝚌𝚊𝚙 𝙵𝙿𝚂
+### Uncap FPS
 ```json
 {
   "DFIntTaskSchedulerTargetFps": "5588562",
@@ -20,7 +20,7 @@
   "FFlagGameBasicSettingsFramerateCap5": "False"
 }
 ```
-### 𝚄𝚗𝚌𝚊𝚙 𝙵𝙿𝚂 (𝚅𝟸)
+### Uncap FPS (V2)
 ```json
 {
 "DFIntConnectionMTUSize": "900",
